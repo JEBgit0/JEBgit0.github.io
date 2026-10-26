@@ -1,5 +1,6 @@
 AABE course folder, version 2026-1
 2026-10-26
+2026-10-27
 
 ## 2026-10-26, Session 1, Part 1: what a language model is
 - Read part 1. Agent explained tokens, context window, cost and the three safety rules.
