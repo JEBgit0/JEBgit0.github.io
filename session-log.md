@@ -11,7 +11,7 @@ AABE course folder, version 2026-1
 - Small task result: agent drew the course folder tree. folder-context started and asked storage, umbrella project and partner. Student chose the existing OneDrive folder MASTER\master-thesis, inside the degree folder MASTER. Agent inspected it and proposed adding to it, not rebuilding it. With the student's approval: renamed "Relevant info" to relevant-info, added README.md (folder context), AGENTS.md, CLAUDE.md and session-log.md. main/ unchanged. data/ deferred until there is data.
 - Student answered the four checks. On point 3 the agent added that location decides where a skill works and the description decides when it starts. Student agreed.
 
-## 2026-10-27, Session 1, Part 3: what an agent is
+## 2026-10-26, Session 1, Part 3: what an agent is
 - Edited my-page/index.md: added the name Julian Eik Brodahl and a link to github.com/JEBgit0/JEBgit0.github.io. The list "What I built in this course" kept. Repository existence not checked.
 - Small task result: agent listed 16 steps from this session with tool, result and next decision. The log alone did not show the tools, so the agent used the conversation. Agent reported one slip: the four thesis files were written without being shown first. Goal: follow AGENTS.md, take the student through session 1, ask before file changes, log each part. Precise for the skill install and the name edit, not precise for "propose a thesis folder".
 - Student named the four parts (model, tools, loop, goal). Loop example: steps 7 to 8, where the result of the hash check decided the install. Goal: the agent stopped when "show me that you can see the skill" was met. On the model, model is Claude and that skills, AGENTS.md and answers are its context.
